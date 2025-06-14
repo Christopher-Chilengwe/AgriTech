@@ -48,7 +48,7 @@ AgriTech
         <img width="200px" src="https://github.com/GDSC-cuiatd/AgriTech/blob/main/assests/proj-logo.png" alt="GDSC Abbottabad Logo"/>
     </div>
     <div>
-            <h3><b>AgriTech Project by GDSC Abbottabad</b></h3>
+            <h3><b>AgriTech Project by Chilengwe Christopher</b></h3>
             <p><i>Empowering agriculture with technology</i></p>
     </div>      
 </div>
