@@ -8,7 +8,7 @@ Fork the Repository: Click the "Fork" button on the top right corner of the repo
 
 Clone the Repository: Clone your forked repository to your local machine using the following command:
 
-git clone https://github.com/your-username/agritech-project.git
+git clone [https://github.com/Christopher-Chilengwe/AgriTech]
 Create a New Branch: Create a new branch for your contribution. Choose a descriptive name for your branch that summarizes the purpose of your contribution.
 
 
