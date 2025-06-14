@@ -183,17 +183,11 @@ Here's how you run this.
       [Running App](https://github.com/GDSC-cuiatd/AgriTech/tree/main/AgriTech%20App#readme)
 
 ## Install Apk File
-  You can also install our apk file from : [install APK](https://github.com/GDSC-cuiatd/AgriTech/tree/main/AppApk)      
-
-## <div id="contributors">👥 &nbsp;Contributors</div>
-
-| <a href="https://github.com/roboraees07"><img width="180px" src="https://github.com/GDSC-cuiatd/AgriTech/blob/main/agritech-website/src/assets/team/raees.jpeg" alt=""/></a> | <a href="https://github.com/askhan963"><img width="180px" src="https://github.com/GDSC-cuiatd/AgriTech/blob/main/agritech-website/src/assets/team/img-awais.jpg" alt=""/></a> | <a href="https://github.com/muneerhassan55"><img width="180px" src="https://github.com/GDSC-cuiatd/AgriTech/blob/main/agritech-website/src/assets/team/munner.png" alt=""/></a> | <a href="https://github.com/Hammad-Ali-139"><img width="180px" src="https://github.com/GDSC-cuiatd/AgriTech/blob/main/agritech-website/src/assets/team/hammad.jpeg" alt=""/></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="center"><h3><b><a href="https://github.com/roboraees07">M. Raees Azam</a></b></h3><p><i>CUI,ATD</i></p></div>                                                                               | <div align="center"><h3><b><a href="https://github.com/askhan963">M Awais Khan</a></b></h3></a><p><i>CUI , ATD</i></p></div>                                                                          | <div align="center"><h3><b><a href="https://github.com/muneerhassan55">Muneer Ahmad</a></b></h3></a><p><i>CUI, ATD</i></p></div></a>                                                               | <div align="center"><h3><b><a href="https://github.com/Hammad-Ali-139">Hammad Ali Khan</a></b></h3></a><p><i>CUI, ATD</i></p></div>           
+  You can also install our apk file from : [install APK](https://github.com/GDSC-cuiatd/AgriTech/tree/main/AppApk)               
 
 ## <div id="footer">License</div>
 
-© 2024 GDSC COMSATS Abbottabad. All Rights Reserved.
+© 2025 Future Technologies. All Rights Reserved.
 
 <div align="center">
     <img width="200px" src="https://github.com/GDSC-cuiatd/AgriTech/blob/main/agritech-website/src/assets/Images/gdsc.jpeg" alt="GDSC Abbottabad Logo"/> 
